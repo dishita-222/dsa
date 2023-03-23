@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-void print(int num){
-    cout<<num<<endl;
+void print(int num1){
+    cout<<num1<<endl;
 return;
 }
 
